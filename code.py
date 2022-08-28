@@ -1,1 +1,3 @@
-print("Hello World in main")
+print("Hello World")
+name = "robot"
+print("I am " + name)
