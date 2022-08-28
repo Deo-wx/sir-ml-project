@@ -5,6 +5,3 @@ Utilized python to implement unsupervised machine learning techniques for a web-
 
 watch youtube video
 
-## Local Development
-
-1. Create notebook
