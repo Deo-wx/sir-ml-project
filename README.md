@@ -30,10 +30,10 @@ Summary:
 * Sample data generated at this stage looks like this. 
 
 (sentiment_analysis_result.csv)
-  ![alt text](https://github.com/Deo-wx/sir-ml-project/sentiment_analysis_result.png?raw=true)
+  ![alt text](https://github.com/Deo-wx/sir-ml-project/blob/main/sentiment_analysis_result.png)
 
 (result_stats.csv)
-    ![alt text](https://github.com/Deo-wx/sir-ml-project/result_stats.png?raw=true)
+    ![alt text](https://github.com/Deo-wx/sir-ml-project/blob/main/result_stats.png)
 
 
 ### Credits:
